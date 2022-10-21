@@ -1,0 +1,16 @@
+An extensible multilanguage static code analyzer (PMD): https://pmd.github.io
+
+SpotBugs is FindBugs' successor. A tool for static analysis to look for bugs in Java code. https://spotbugs.github.io/
+
+A FRamework for Efficient Secure COmputation: https://github.com/aicis/fresco
+
+Java PathFinder : https://github.com/javapathfinder/jpf-core/wiki/JPF-and-Google-Summer-of-Code-2017-Project-Ideas
+
+State model checker for specifications written in TLA+
+http://lamport.azurewebsites.net/tla/tla.html
+https://github.com/tlaplus/tlaplus
+
+Coala: https://projects.coala.io/#/projects
+
+A tool to help eliminate NullPointerExceptions (NPEs) in your Java code with low build-time overhead: 
+https://github.com/uber/NullAway
